@@ -1,0 +1,41 @@
+{
+  "name": "shubhamj",
+  "version": "1.0.0",
+  "description": "Shubham Jain",
+  "main": "/bin/card.js",
+  "bin": {
+    "mihirk": "./bin/card.js"
+  },
+  "scripts": {
+    "show": "node ./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-hash/my-card.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm",
+    "card",
+    "npx",
+    "npx",
+    "card",
+    "business",
+    "card"
+  ],
+  "files": [
+    "bin/card.js"
+  ],
+  "devDependencies": {},
+  "author": "Shubham Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-hash/my-card/issues"
+  },
+  "dependencies": {
+    "boxen": "4.1.0",
+    "chalk": "3.0.0"
+  },
+  "homepage": "https://github.com/shubham-hash/my-card#readme"
+}
